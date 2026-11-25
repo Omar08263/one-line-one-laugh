@@ -21,10 +21,13 @@ milk, diet and ice cream are everyday words, no technical knowledge needed.
 Runner-up set aside: "Dear judge, I'm the line the other line warns its
 children about." (65 chars) is tighter and cleverer, but its laugh is
 intellectual — a smile at the image — while the fridge line lands a visceral
-laugh, and the judge weighs the laugh first. Originality checked live via
-Parallel web search (2026-11-25): neither line appears anywhere online
-verbatim; the closest public joke is "I bought a smart fridge. It now
-judges me silently at midnight." — different wording, different punch.
+laugh, and the judge weighs the laugh first. Originality checked live via Parallel web search (2026-11-25) and by an
+independent reviewer the same day: the line appears nowhere online
+verbatim; the smart-fridge-judges-my-diet frame itself circulates in social
+videos (a known meme frame), so this line's originality is in its exact
+wording and its closing twist — ice cream held hostage until an apology —
+not in the frame. The reserve line is quoted below only as a rejected
+alternative; it never leaves this file.
 """
 
 import os
